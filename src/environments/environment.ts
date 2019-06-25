@@ -5,13 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyB5HpoToPXShexQREPqiHuwkTVmWs1ik_0",
-    authDomain: "schedule-f37ef.firebaseapp.com",
-    databaseURL: "https://schedule-f37ef.firebaseio.com",
-    projectId: "schedule-f37ef",
-    storageBucket: "",
-    messagingSenderId: "986721639621",
-    appId: "1:986721639621:web:e55e257db968927a"
+    apiKey: "YOUR_apiKey",
+    authDomain: "YOUR_authDomain",
+    databaseURL: "YOUR_databaseURL",
+    projectId: "YOUR_projectId",
+    storageBucket: "YOUR_storageBucket",
+    messagingSenderId: "YOUR_messagingSenderId"
   }
 };
 
